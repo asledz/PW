@@ -5,8 +5,4 @@ Concurrent programming, Faculty of Mathematics, Informatics, and Mechanics 2019/
 Programowanie współbieżne, MIMUW 2019/2020
 
 ## Zadanie pierwsze / First task
-Implementacja sieci Petriego w javie.
-
-Implementation of Petri net in java.
-
-Znajduje się [tutaj](/projekt1)
+Implementacja [sieci Petriego](/projekt1) w javie.
